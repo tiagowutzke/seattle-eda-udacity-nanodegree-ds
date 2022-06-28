@@ -2,17 +2,30 @@
 
 This repository contains an Exploratory Data Analysis (_aka_EDA) for the project 1 of Udacity Data Science Nanodegree.
 
-The EDA consists in drawing some business question, then analyze data in order to answer these questions and drawing conclusions about them.
+The EDA consists in choose a dataset. Check data inside it and drawing some business question. Then analyze data in order to answer these questions and drawing conclusions about them.
+
+The dataset which was chosen is [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle). There are three dataframes available and their description are*:
+- Listings, including full descriptions and average review score
+- Reviews, including unique id for each reviewer and detailed comments
+- Calendar, including listing id and the price and availability for that day
+
+*_descriptions provided by Airbnb in Kaggle dataset page_
 
 ## Libraries used
 
-The starter kit to work with data and dataset in python
+The starter kit to work with data and dataset in python 
 - pandas
 - numpy
 
 Data visualization
 - seaborn
 - matplotlib
+
+## Files
+`Seattle EDA.ipynb`: Jupyter notebook containing the analysis
+
+## Datasets
+
 
 ## Business question
 
