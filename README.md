@@ -11,6 +11,10 @@ The dataset which was chosen is [Seattle Airbnb Open Data](https://www.kaggle.co
 
 *_descriptions provided by Airbnb in Kaggle dataset page_
 
+## Stakeholders article
+
+An article about the insights provided by the analysis is available at this [site](https://sites.google.com/view/seattleeda-udacitydsnanodegree/in%C3%ADcio)
+
 ## Libraries used
 
 The starter kit to work with data and dataset in python 
@@ -29,11 +33,11 @@ Data visualization
 
 ## Business question
 
-1 - Are there any seasonality regarding to the booking prices?
+1 - Is there any seasonality regarding the booking prices?
 
-2 - A good response rate from hosts leads to their place have a higher booking frequency?
+2 - A good response rate from hosts leads to their place having a higher booking frequency?
 
-3 - Do the positive reviews leads to higher prices and booking frequency?
+3 - Do the positive reviews lead to higher prices and booking frequency?
 
 ## Conclusions
 
