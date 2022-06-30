@@ -1,5 +1,14 @@
 # Seattle EDA
 
+### Table of contents
+
+- [Stakeholders article](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#stakeholders-article)
+- [Libraries used](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#libraries-used)
+- [Files](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#files)
+- [Business question](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#business-question)
+- [Conclusions](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#conclusions)
+- [Files](https://github.com/tiagowutzke/seattle-eda-udacity-nanodegree-ds#files)
+
 This repository contains an Exploratory Data Analysis (_aka_EDA) for the project 1 of Udacity Data Science Nanodegree.
 
 The EDA consists in choose a dataset. Check data inside it and drawing some business question. Then analyze data in order to answer these questions and drawing conclusions about them.
@@ -27,9 +36,6 @@ Data visualization
 
 ## Files
 `Seattle EDA.ipynb`: Jupyter notebook containing the analysis
-
-## Datasets
-
 
 ## Business question
 
